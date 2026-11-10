@@ -1,0 +1,2 @@
+Ana Mora;8888-1111;ana@example.com
+José Pérez;8000-0000;jose@example.com
